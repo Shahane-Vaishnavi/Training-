@@ -1,3 +1,3 @@
 # Training-
 
-this was a demo file
+This was a demo file
