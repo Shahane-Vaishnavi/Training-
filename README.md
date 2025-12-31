@@ -1,4 +1,3 @@
 # Training-
 
-This was a demo file
-Creacted for a demo to see how readme words
+This a created for a cheking the how update i'm and the practice of all languages 
